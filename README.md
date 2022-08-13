@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elt13mal
-- 👀 I’m interested in becoming a fullstack-dev
-- 🌱 I’m currently learning python
+- 👀 interested in becoming a fullstack-dev
+- 🌱 currently learning frontend dev
 - 💞️ I’m looking to collaborate on ... 
 
 <!---
